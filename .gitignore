@@ -16,3 +16,4 @@ src/ini_settings.o
 src/mem_str.o
 src/waypoint.o
 stamp-h1
+*~
